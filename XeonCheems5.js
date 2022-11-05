@@ -5724,10 +5724,10 @@ break
 
 
 case 'tqtt': 
-throw `Instagram: https://instagram.com/dimas_x_ganz2003?igshid=YmMyMTA2M2Y
+throw `http://instagram.com/banh_dims0?utm_source=qr
 My Grup: https://chat.whatsapp.com/KI0v2RruYCUKllCfhyKWP3
 Banh Dims
-『DIMAS BOTZZ』`
+🜲⁩𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯🜲⁩`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5796,7 +5796,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "Silahkan Pilih Menu Di Bawah🇲🇨",
+								"title": "Silahkan Pilih Menu Di Bawah 🇲🇨",
 								"rows": [
 									{
 										"title": "Other ☕",
@@ -5806,31 +5806,31 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "Fitur Dimas Bot♨️️",
+								"title": "🜲⁩-Fitur Dimas Bot-🜲⁩️",
 								"rows": [
 									{
-										"title": "All Menu 🥀",
-										"description": "Displays The List Of All The Features!",
+										"title": "Semua Menu",
+										"description": "Menampilkan Semua Menu Dimas Botzz",
 										"rowId": `${prefix}allmenu`
 									},
 									{
-										"title": "Owner Menu 💠",
-										"description": "Displays The List Of Owner Features",
+										"title": "Menu Owner Dimas Botzz",
+										"description": "Menu Khusus Owner Ku Kak😝",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
-										"title": "Group Menu ✨",
-										"description": "Displays The List Of Main Features",
+										"title": "Menu Grup 🇲🇨",
+										"description": "Menampilkan Semua Menu Grup",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
-										"title": "Maker Menu 🌈",
-										"description": "Displays The List Of Logo Making Features",
+										"title": "Menu Maker 🌠",
+										"description": "Ayo Membuat Logo Keren Dengan Dimas Botzz🆔",
 										"rowId": `${prefix}makermenu`
 									},
 									{
-										"title": "Sound Menu 🎵",
-										"description": "Displays The List Of Sound Features",
+										"title": "Menu Audio 🎵",
+										"description": "Menampilkan Menu Audio",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
@@ -5849,80 +5849,80 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 										"rowId": `${prefix}searchmenu`
 									},
 									{
-										"title": "Random Image Menu 🌆",
-										"description": "Displays The List Of Random Image Features",
+										"title": "Menu Random Foto 🌆",
+										"description": "Menampilkan Menu Random Foto",
 										"rowId": `${prefix}randomimagemenu`
 									},
 									{
-										"title": "Image Effect Menu 🖼️",
-										"description": "Displays The List Of Image Effect Features",
+										"title": "Menu Efek Foto 🖼️",
+										"description": "Ingin Coba Efek Foto Yg Keren?",
 										"rowId": `${prefix}imageeffectmenu`
 									},
 										{
-											"title": "Anime Menu 😘",
-										"description": "Displays The List Of Random Anime Features",
+											"title": "Menu Anime 😘",
+										"description": "Menu Khusus Untuk Para Wibu🗿",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "Emote Menu 😀",
-										"description": "Displays The List Of Emote Features",
+											"title": "Menu Emote 😀",
+										"description": "Menampilkan Semua Menu Emot",
 										"rowId": `${prefix}emotemenu`
 										},
 										{
-										"title": "Anime Sticker Menu ☺️",
-										"description": "Displays The List Of Anime Sticker Features",
+										"title": "Menu Stiker Anime ☺️",
+										"description": "Menu Untuk Membuat Stiker Anime",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
 										"title": "Nsfw Menu 🤓",
-										"description": "Oh Shit Maderpaker Fitur +18😱",
+										"description": "Oh Shit Maderpaker Fitur +18😱 Lain Kali Tobat Ya Bro 🗿",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
 											"title": "Fun Menu 🕺",
-										"description": "Displays The List Of Fun Features",
+										"description": "Menampilkan Menu Fun -Menu Untuk Bersenang Senang-",
 										"rowId": `${prefix}funmenu`
 										},
 										{
-										"title": "Game Menu 🎮",
-										"description": "Displays The List Of Game Features",
+										"title": "Menu Game 🎮",
+										"description": "Ayo Main Game Kak🤯",
 										"rowId": `${prefix}gamemenu`
 									},
 										{
-											"title": "Convert Menu ⚒️",
-										"description": "Displays The List Of Convert Features",
+											"title": "Menu Convert ⚒️",
+										"description": "Menampilkan Menu Convert",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
-											"title": "Database Menu ♻️",
-										"description": "Displays The List Of Database Features",
+											"title": "Menu Database ♻️",
+										"description": "Ingin Menyimpan Sesuatu Di Database Dimas Bot?",
 										"rowId": `${prefix}databasemenu`
 										}
 								]
 							},
 							{
-								"title": "Chat With Fellow Users 🌝",
+								"title": "🜲⁩•Menu Untuk Chat Sesama User Bot•🜲⁩",
 								"rows": [
 									{
 										"title": "Anonymous Chat Menu ??🏻‍♂️",
-										"description": "Displays The List Of Anonymous Chat Features",
+										"description": "Menu Untuk Chat Sesama User Dimas Botzz",
 										"rowId": `${prefix}anonymousmenu`
 									}
 								]
 							},
 							{
-								"title": "Credit ©️",
+								"title": "Credit 🜲⁩𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯🜲⁩",
 								"rows": [
 									{
-										"title": "Thanks To ❤️",
-										"description": "Displays The List Of Credit Of The Bot !!",
+										"title": "Dimas Botzz️",
+										"description": "Jangan Lupa Follow Instagram Banh Dims 🗿",
 										"rowId": `${prefix}tqtt`
 									}
 								]
 							}
 						]
 const listMessage = {
-  text: "Please choose the menu",
+  text: "🜲⁩•𝙎𝙞𝙡𝙖𝙝𝙠𝙖𝙣 𝙋𝙞𝙡𝙞𝙝 𝙈𝙚𝙣𝙪 𝘿𝙞 𝘽𝙖𝙬𝙖𝙝•🜲⁩",
   footer: `「${botname}」\n📍Instagram: ${websitex}\n🍜Script: ${botscript}`,
   title: `Hi 👋 ${pushname}`,
   buttonText: "Menu",

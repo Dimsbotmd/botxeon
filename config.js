@@ -15,9 +15,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6289603732786'] //ur owner number
-global.ownername = "Banh Dims🗿" //ur owner name
-global.ytname = "YT: Dimas Bot" //ur yt chanel name
-global.socialm = "GitHub: BGDM" //ur github or insta name
+global.ownername = "🜲⁩•︻ཉོ༙ཬ❰❰𝘽𝙖𝙣𝙝 𝘿𝙞𝙢𝙨❱❱❱章브๏❨𝙓𝙔𝙕❩๏ຼົะ»•🜲⁩" //ur owner name
+global.ytname = "Grup: https://chat.whatsapp.com/KI0v2RruYCUKllCfhyKWP3" //ur yt chanel name
+global.socialm = "IG: http://instagram.com/banh_dims0?utm_source=qr"//ur github or insta name
 global.location = "Indonesia, Jawa Tengah, Boyolali" //ur location
 
 //bot bomdy 
@@ -25,33 +25,33 @@ global.owner = ['6289603732786'] //ur number
 global.ownernomer = "6289603732786" //ur number
 global.ownertag = '6289603732786' //ur tag number
 global.premium = ['6289603732786'] //ur premium number
-global.botname = '『DIMAS BOTZZ』' //ur bot name
-global.ownername = "Banh Dims🥰"
+global.botname = '🜲•^•𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯•^•🜲⁩' //ur bot name
+global.ownername = "🜲⁩•︻ཉོ༙ཬ❰❰𝘽𝙖𝙣𝙝 𝘿𝙞𝙢𝙨❱❱❱章브๏❨𝙓𝙔𝙕❩๏ຼົะ»•🜲⁩"
 global.linkz = "https://chat.whatsapp.com/KI0v2RruYCUKllCfhyKWP3" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/dimas_x_ganz2003?igshid=YmMyMTA2M2Y" //ur website to be displayed
-global.botscript = 'Beli Lah Bang🗿' //script link
+global.websitex = "http://instagram.com/banh_dims0?utm_source=qr" //ur website to be displayed
+global.botscript = '🜲⁩ Beli Ke Sini🗿 wa.me/6289603732786 🜲⁩' //script link
 global.themeemoji = "🇲🇨" //ur theme emoji
-global.packname = "Stiker By" //ur sticker watermark packname
-global.author = "『DIMAS BOTZZ』" //ur sticker watermark author
-global.wm = "『DIMAS BOTZZ』" //ur watermark
+global.packname = "Sticker By" //ur sticker watermark packname
+global.author = "🜲•^•𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯•^•🜲⁩" //ur sticker watermark author
+global.wm = "🜲•^•𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯•^•🜲⁩" //ur watermark
 
 // Other
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Done✓',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'Selesai Kak✓',
+    admin: 'Fitur Khusu Untuk Admin Kak🐶',
+    botAdmin: 'Dimas Bot Harus Menjadi Admin Dlu Kak😞',
+    premime: 'Fitur Spesial Premium Jika Anda Ingin Mendaftar Premium Chat Owner',
+    owner: 'Fitur Ini Hanya Dapat Di Gunakan Oleh Pemilik Bot',
+    group: 'Fitur Ini Hanya Dapat Di Gunakan Di Dalam Grup',
+    private: 'Fitur Ini Hanya Dapat Di Gunakan Di Chat Pribadi',
+    bot: 'Fitur Ini Hanya Dapat Di Gunakan Oleh Bot',
+    wait: 'Sedang Di Proses Kak.....🧐',
+    linkm: 'Link Nya Mana Asw?🤓',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap 12 Jam',
+    nsfw: 'Fitur Nsfw Belum Diaktifkan, Silahkan Hubungi Admin Untuk Mengaktifkan',
 }
 global.limitawal = {
     premium: "Infinity",
