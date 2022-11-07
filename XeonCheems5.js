@@ -5799,8 +5799,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"title": "Silahkan Pilih Menu Di Bawah 🇲🇨",
 								"rows": [
 									{
-										"title": "Other ☕",
-										"description": "Displays The List Of Other Features",
+										"title": "Jangan Lupa Donasi Ya Kak 🥳",
+										"description": "「▰▰▰▱▱▱▱▱▱▱」EROOR...",
 										"rowId": `${prefix}othermenu`
 									}
 								]
@@ -5835,17 +5835,17 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 									},
 									{
 										"title": "Download Menu ↘️",
-										"description": "Displays The List Of Download Features",
+										"description": "Ingin Mendownload Sesuatu Kak?🤔",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
 										"title": "Sticker Menu 🃏",
-										"description": "Displays The List Of Sticker Features",
+										"description": "Menampilkan Menu Untuk Membuat Stiker",
 										"rowId": `${prefix}stickermenu`
 									},
 									{
 										"title": "Search Menu 🔎",
-										"description": "Displays The List Of Searching Features",
+										"description": "Ingin Mencari Sesuatu?",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
@@ -5911,7 +5911,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "Credit 🜲⁩𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯🜲⁩",
+								"title": " 🜲⁩𝘿𝙞𝙢𝙖𝙨 𝘽𝙤𝙩𝙯𝙯🜲⁩",
 								"rows": [
 									{
 										"title": "Dimas Botzz️",
